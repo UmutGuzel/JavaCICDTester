@@ -1,0 +1,1 @@
+This project is a basic backend program that tests CI/CD pipeline whether the CI/CD pipeline is working correctly.
